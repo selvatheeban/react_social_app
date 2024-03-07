@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Technical",
+      "datetime": "Mar 04 2024 15:05:37",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+    },
+    {
+      "id": 2,
+      "title": "Social",
+      "datetime": "Apr 06 2024 15:05:37",
+      "body": "Contrary to popular belief, Lorem Ipsum is not simply random text"
+    },
+    {
+      "id": 3,
+      "title": "Economic",
+      "datetime": "Jan 01 2024 15:05:37",
+      "body": "There are many variations of passages of Lorem Ipsum available"
+    },
+    {
+      "id": 4,
+      "title": "Economic2",
+      "datetime": "Jan 01 2024 15:05:37",
+      "body": "There are many variations of passages of Lorem Ipsum available"
+    },
+    {
+      "id": 5,
+      "title": "Economic3",
+      "datetime": "Jan 01 2024 15:05:37",
+      "body": "There are many variations of passages of Lorem Ipsum available"
+    },
+    {
+      "id": 6,
+      "title": "tesla",
+      "datetime": "March 07, 2024 2:26:53 PM",
+      "body": "tesla data"
+    },
+    {
+      "id": 7,
+      "title": "bmw",
+      "datetime": "March 07, 2024 2:28:05 PM",
+      "body": "bmw data"
+    },
+    {
+      "id": 8,
+      "title": "audi",
+      "datetime": "March 07, 2024 2:28:47 PM",
+      "body": "audi data"
+    },
+    {
+      "id": 9,
+      "title": "nissan",
+      "datetime": "March 07, 2024 2:29:10 PM",
+      "body": "nissan data"
+    },
+    {
+      "id": 10,
+      "title": "renault",
+      "datetime": "March 07, 2024 2:31:16 PM",
+      "body": "renault data"
+    },
+    {
+      "id": 11,
+      "title": "RE",
+      "datetime": "March 07, 2024 2:35:00 PM",
+      "body": "RE data"
+    },
+    {
+      "id": 12,
+      "title": "Avengers",
+      "datetime": "March 07, 2024 2:35:36 PM",
+      "body": "Tony"
+    }
+  ]
+}
